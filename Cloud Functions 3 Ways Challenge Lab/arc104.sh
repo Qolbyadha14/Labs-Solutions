@@ -100,7 +100,7 @@ done
 
 cd ..
 
-mkdir ~/HTTP_FUNCTION && cd $_
+mkdir ~/$HTTP_FUNCTION && cd $_
 touch index.js && touch package.json
 
 cat > index.js <<EOF
